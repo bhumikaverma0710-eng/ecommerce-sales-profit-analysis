@@ -42,18 +42,16 @@ The dataset was prepared and analyzed using Excel and Power BI. Data types were 
 
 ## Power BI Dashboard
 
-### 1. Executive Overview
+## Dashboard Preview
 
-Provides an overall view of sales, profit, cost, orders and quantity, along with sales and profit trends, category performance and regional profitability.
+### Executive Overview
+![Executive Overview](screenshots/executive-overview.png)
 
-### 2. Product Analysis
+### Product Analysis
+![Product Analysis](screenshots/product-analysis.png)
 
-Analyzes top products by sales and profit, category performance, profit margin and quantity sold.
-
-### 3. Discount & Profitability
-
-Examines the relationship between discounts and profit margin, total profit, and profitability across regions and categories.
-
+### Discount & Profitability
+![Discount & Profitability](screenshots/discount-profitability.png)
 ## Key Insights
 
 - Total Sales: **₹228.45M**
