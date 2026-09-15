@@ -45,13 +45,13 @@ The dataset was prepared and analyzed using Excel and Power BI. Data types were 
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](<Screenshot 2026-09-15 212410.png>)
 
 ### Product Analysis
-![Product Analysis](screenshots/product-analysis.png)
+![Product Analysis](<Screenshot 2026-09-15 212959.png>)
 
 ### Discount & Profitability
-![Discount & Profitability](screenshots/discount-profitability.png)
+![Discount & Profitability](<Screenshot 2026-09-15 213031.png>)
 ## Key Insights
 
 - Total Sales: **₹228.45M**
